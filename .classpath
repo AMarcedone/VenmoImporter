@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/extadmin.jar"/>
+	<classpathentry kind="lib" path="lib/moneydance-dev.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Antonio/Dropbox/EclipseWorkspace/moneydance-devkit-4.0/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/json-20141113.jar"/>
+	<classpathentry kind="lib" path="lib/moneydance.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Antonio/Dropbox/EclipseWorkspace/moneydance-devkit-4.0/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-common-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

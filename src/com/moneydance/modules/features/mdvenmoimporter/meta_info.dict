@@ -1,0 +1,22 @@
+{
+  "vendor" = "Antonio Marcedone"
+  "module_build" = "1"
+  "minbuild" = "1000"
+  "vendor.url" = "http://www.marcedone.it/"
+  "module_name" = "MDVenmoImporter"
+  "module_desc" = "
+  <html><body><title>Venmo Importer for MoneyDance</title>
+  <p>This extension allows you to import transaction from your venmo account into Moneydance 2015.</p>
+  <p>Copyright (C) 2015  Antonio Marcedone</p>  
+  <p>This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.</p>
+<p>The license can be downloaded from https://github.com/AMarcedone/VenmoImporter</p>
+</body></html>"
+
+  "desc" = "This extension allows you to import transaction from your venmo account.
+  
+Copyright (C) 2015  Antonio Marcedone.
+The license (GPL v2) can be downloaded from https://github.com/AMarcedone/VenmoImporter"
+}

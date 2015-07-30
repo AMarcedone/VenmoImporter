@@ -2,6 +2,8 @@
 VenmoImporter for MoneyDance
 This extension allows you to import transaction from your venmo account into Moneydance 2015.
 
+You can DOWNLOAD the last precompiled ready-to-use mxt file from https://github.com/AMarcedone/VenmoImporter/releases
+
 Copyright (C) 2015  Antonio Marcedone
 
 This program is free software; you can redistribute it and/or

@@ -266,7 +266,7 @@ public class VenmoImporterWindow
     		
     		otrans = txnlist.newTxn();
     		
-    		otrans.setAmount((long) (amount*100));
+    		otrans.setAmount((long) Math.round(amount*100));
     		otrans.setMemo(comment);
     		otrans.setDatePostedInt(date);
     		otrans.setFITxnId(remotetxnId);
